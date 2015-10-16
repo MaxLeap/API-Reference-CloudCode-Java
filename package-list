@@ -1,0 +1,10 @@
+com.maxleap.code
+com.maxleap.code.assist
+com.maxleap.code.assist.classes
+com.maxleap.code.data.access
+com.maxleap.code.impl
+com.maxleap.code.test.framework
+com.maxleap.code.themis
+myApp
+myApp.entity
+myApp.hook
